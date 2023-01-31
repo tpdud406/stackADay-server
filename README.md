@@ -1,5 +1,7 @@
 # **프로젝트 소개**
 
+## **Stack A Day (가칭)**
+
 **사용자가 작성한 카드들을 한 눈에 시각적으로 볼 수 있는 대시보드입니다.**
 
 사용자는 카드를 생성하여 메모, 사진, 해야할 일들을 입력할 수 있습니다.
@@ -7,7 +9,7 @@
 
 배포링크: https://www.slh-dashboard.online
 <br />
-Client repository : https://github.com/Team-Deep-Diver/dashboard-client
+Client repository : https://github.com/tpdud406/stackADay-client
 
 <img width="1430" alt="스크린샷 2022-11-02 오후 5 15 02" src="https://user-images.githubusercontent.com/82071500/199466703-eefb6a6b-4565-4534-aa67-b6fafb8c3945.png">
 
@@ -15,17 +17,17 @@ Client repository : https://github.com/Team-Deep-Diver/dashboard-client
 
 # 목차
 
-**1. &nbsp; [📆 개발 기간](#-개발-기간)**
+**1. &nbsp; [📆 개발 기간](#📆-개발-기간)**
 
-**2. &nbsp; [👩‍🔧 기술 스택](#-기술-스택)**
+**2. &nbsp; [👩‍🔧 기술 스택](#👩‍🔧-기술-스택)**
 
-**3. &nbsp;[💻 실행 방법](#-실행-방법)**
+**3. &nbsp; [💻 실행 방법](#💻-실행-방법)**
 
-**4. &nbsp;[🔥 도전 과제](#-도전-과제)**
+**4. &nbsp; [🔥 도전 과제](#🔥-도전-과제)**
 
-**5. &nbsp; [📣 주요 기능](#-주요-기능)**
+**5. &nbsp; [📣 주요 기능](#📣-주요-기능)**
 
-**6. &nbsp; [🙏소감](#-소감)**
+**6. &nbsp; [🙏 소감](#🙏-소감)**
 
 <br />
 
